@@ -1,6 +1,13 @@
 import static org.junit.Assert.*;
 import org.junit.*;
+import java.beans.Transient;
+
 
 public class TestListExamples {
-  // Write your grading tests here!
+  @Test
+  public void test_ListMergeTest({
+    assertEquals(2, 2); 
+
+  })
 }
+testlistexample > runresults.txt
